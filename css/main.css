@@ -4,5 +4,7 @@
 }
 
 img {
-	width: 100%
+	width: 100%;
 }
+
+#badge:hover .st0, .st1, .st3 { fill: #9E971B; }
